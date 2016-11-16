@@ -1,0 +1,28 @@
+{
+  "products": 
+  [{
+    "title" : "Multi-Color Flashflight LED Flying Disc, 8\" Frisbee",
+    "name": "Multi-Color Flashflight LED Flying Disc 8\" frisbee",
+    "shortname" : "FFD_Feature_00_n",
+    "summary": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play",
+    "description": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork" : ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDBE"
+  },{
+    "title" : "Red Color Flashflight LED Flying Disc, 8\" Frisbee",
+    "name": "Multi-Color Flashflight LED Flying Disc 8\" frisbee",
+    "shortname" : "61+iB9yKzQL._SL1471_",
+    "summary": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play",
+    "description": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork" : ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDLO"
+  },{
+    "title" : "Blue Flashflight LED Flying Disc",
+    "name": "Flashflight LED Flying Disc 8\" frisbee",
+    "shortname" : "s-l500",
+    "summary": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play",
+    "description": "Flashflight LED Flying Disc, 8\" Frisbee like Toy for Outdoor Game Play , flying disc for dogs , Includes 2pcsCR2016 batteries (easy to replace)",
+    "artwork" : ["20cm-blue.jpg"],
+    "linkToAmazon": "https://www.amazon.com/dp/B011KPUDHS"
+  }]
+}
